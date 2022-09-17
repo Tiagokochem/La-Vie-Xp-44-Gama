@@ -1,0 +1,1 @@
+Para abrir a documentação, é necessário acessar a pasta 'insomnia-documenter-demo' via terminal e executar o comando 'npx serve'. Em seguida acessar o localhost na porta indicada no terminal.
